@@ -19,33 +19,41 @@ public class MovieService {
 
     private ObjectMapper mapper = new ObjectMapper();
 
+    public MovieService(ObjectMapper mapper) {
+        this.mapper = mapper;
+        this.mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
+
+    }
+
     public List<Movie> getAllMovies(){
-        return this.getMovies(null);
-    }
-
-    public List<Movie> getFilterMovies(List<String> ids){
-        return this.getMovies(ids);
-    }
-
-    public Movie getMovie(String id){
-        List<String> ids = new ArrayList<>();
-        ids.add(id);
-        return this.getMovies(ids).get(0);
-    }
-
-    private List<Movie> getMovies(List<String> idList) {
-        mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false);
         List<Movie> response = new ArrayList<Movie>();
         try {
             response = Arrays.asList(mapper.readValue(new URL("file:src/main/java/data/movies.json"), Movie[].class));
-            if (idList.size() > 0) {
+        } catch (Exception e) {
+            System.out.println("******ERROR " + e.getMessage());
+        }
+        return response;
+    }
+
+    public List<Movie> getFilterMovies(List<String> ids){
+        List<Movie> response = new ArrayList<Movie>();
+        if(ids.size() == 0) return  response;
+        try {
+            response = Arrays.asList(mapper.readValue(new URL("file:src/main/java/data/movies.json"), Movie[].class));
+            if (ids.size() > 0) {
                 response=  response.stream().filter(
-                        movie -> idList.contains(movie.getId())
+                        movie -> ids.contains(movie.getId())
                 ).collect(Collectors.toList());
             }
         } catch (Exception e) {
             System.out.println("******ERROR " + e.getMessage());
         }
         return response;
+    }
+
+    public Movie getMovie(String id){
+        List<String> ids = new ArrayList<>();
+        ids.add(id);
+        return this.getFilterMovies(ids).get(0);
     }
 }
