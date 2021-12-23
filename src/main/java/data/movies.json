@@ -11,15 +11,15 @@
       "personList": [
         {
           "name": "Ansel Elgort",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Rachel Zegler",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Steven Spielberg",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/GiQf6cZT8BQ"
@@ -37,23 +37,23 @@
       "personList": [
         {
           "name": "Astrid Bergès-Frisbey",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Freddie Highmore",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Liam Cunningham",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Sam Riley",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Jaume Balaguero",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/Wi7QTbE3dVI"
@@ -71,15 +71,15 @@
       "personList": [
         {
           "name": "Jack Whitehall",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Sienna Guillory",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Walt Becker",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/9Zw020ATXNM"
@@ -97,15 +97,15 @@
       "personList": [
         {
           "name": "Alejandra  Flechner",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Luis Ziembrowski",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Ignacio Guggiari",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/LrBuztCzFn0"
@@ -123,19 +123,19 @@
       "personList": [
         {
           "name": "Anya Taylor -Joy",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Matt Smith",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Thomasin McKenzie",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Edgar Wright",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/dAiufOIJNV8"
@@ -153,19 +153,19 @@
       "personList": [
         {
           "name": "Francesca Cavallin",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Ginevra Francesconi",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Justin Korovkin",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Roberto De Feo",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/IvdmYb90qzs"
@@ -183,15 +183,15 @@
       "personList": [
         {
           "name": "Mauricio Di Yorio",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Umbra Colombo",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Felipe Gomez Aparicio",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//Ci39Yl_OlT0"
@@ -209,15 +209,15 @@
       "personList": [
         {
           "name": "Byron Howard",
-          "Type": "D"
+          "type": "D"
         },
         {
           "name": "Charise  Castro Smith",
-          "Type": "D"
+          "type": "D"
         },
         {
           "name": "Jared Bush",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/4wmnq95hj70"
@@ -235,27 +235,27 @@
       "personList": [
         {
           "name": "Angelina Jolie",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Barry Keoghan",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Kit  Harington",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Richard Madden",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Salma Hayek",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Chloe Zhao",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/MKWXuj3ZYf0"
@@ -273,15 +273,15 @@
       "personList": [
         {
           "name": "Jorgelina Aruzzi",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Roberto Moldavsky",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Sabrina Farji",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//GzqYoI8x7Lc"
@@ -299,31 +299,31 @@
       "personList": [
         {
           "name": "Annie  Potts",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Carrie Coon",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Ernie Hudson",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Finn Wolfhard",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "McKenna Grace",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Paul Rudd",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Jason Reitman",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//GtyAO-VP0tw"
@@ -341,7 +341,7 @@
       "personList": [
         {
           "name": "Nicolas Jack Davies",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//Ky3mnWGC_rA"
@@ -359,19 +359,19 @@
       "personList": [
         {
           "name": "Daniel  Radcliffe",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Emma Watson",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Rupert Grint",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Chris  Columbus",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//uwM2oPGQMl4"
@@ -389,19 +389,19 @@
       "personList": [
         {
           "name": "Belen Blanco",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Daniel Fanego",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Diego Velazquez",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Fernando  Spiner",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/czZGLSXDbDw"
@@ -419,27 +419,27 @@
       "personList": [
         {
           "name": "Adam Driver",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Al  Pacino",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Jared Leto",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Jeremy  Irons",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Lady Gaga",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Ridley Scott",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//Dy4JNr9gs7I"
@@ -457,27 +457,27 @@
       "personList": [
         {
           "name": "Adrien Brody",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Benicio Del Toro",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Frances Mc Dormand",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Saoirse Ronan",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Timothee Chalamet",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Wes Anderson",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//YFawVGHq-aE"
@@ -495,7 +495,7 @@
       "personList": [
         {
           "name": "Holer Tappe",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//8tpdGktztuM"
@@ -513,19 +513,19 @@
       "personList": [
         {
           "name": "Carrie-Anne Moss",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Keanu Reeves",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Laurence  Fishburne",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Lana Wachowsky",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/D4eJx-0g3Do"
@@ -543,19 +543,19 @@
       "personList": [
         {
           "name": "Luis Machin",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Mario  Alarcon",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Sol Zaragozi",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Nestor Zapata",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": " https://www.youtube.com/embed//W5ubJIujZMs"
@@ -573,11 +573,11 @@
       "personList": [
         {
           "name": "Oh Yoon-Dong",
-          "Type": "D"
+          "type": "D"
         },
         {
           "name": "Sung Sin-Hyo",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/Sg0XPGPGqo0"
@@ -595,19 +595,19 @@
       "personList": [
         {
           "name": "Hannah John-Kamen",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Kaya Scodelario",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Robbie Amell",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Johannes Roberts",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/4q6UGCyHZCI"
@@ -625,19 +625,19 @@
       "personList": [
         {
           "name": "Demi Singleton",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Saniyya Sidney",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Will Smith",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Reinaldo Marcus Green",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//oEpwtHkw34U"
@@ -655,19 +655,19 @@
       "personList": [
         {
           "name": "Laurence  Fishburne",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Liam Neeson",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Marcus Thomas",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Jonathan Hensleigh",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//cc_ismJiV-0"
@@ -685,11 +685,11 @@
       "personList": [
         {
           "name": "Jean Philippe Vine",
-          "Type": "D"
+          "type": "D"
         },
         {
           "name": "Sarah Smith",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/-Lo_uRC5P6s"
@@ -707,19 +707,19 @@
       "personList": [
         {
           "name": "* Zendaya",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Benedict Cumberbatch",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Tom Holland",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Jon Watts",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//r6t0czGbuGI"
@@ -737,15 +737,15 @@
       "personList": [
         {
           "name": "Tom Hardy",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Woody Harrelson",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Andy Serkis",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//F4Ygcigj0Gk"
@@ -763,7 +763,7 @@
       "personList": [
         {
           "name": "Jorge Pareja",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed//8FK1bAnqM9Y"
@@ -781,15 +781,15 @@
       "personList": [
         {
           "name": "Eleonora Wexler",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Juan Palomino",
-          "Type": "A"
+          "type": "A"
         },
         {
           "name": "Federico Palazzo",
-          "Type": "D"
+          "type": "D"
         }
       ],
       "trailer": "https://www.youtube.com/embed/1n71K1Vq5Io"

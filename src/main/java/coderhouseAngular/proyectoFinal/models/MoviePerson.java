@@ -3,7 +3,7 @@ package coderhouseAngular.proyectoFinal.models;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class MoviePerson {
-    @JsonProperty("Type")
+    @JsonProperty("type")
     private String type;
     private String name;
 
