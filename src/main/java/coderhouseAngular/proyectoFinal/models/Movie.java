@@ -9,19 +9,9 @@ import java.util.List;
 public class Movie {
     private String id;
     private String name;
-    private String rating;
-    private String distributor;
-    private String description;
-    private String duration;
-    private String category;
-
-    @JsonProperty("URLPoster")
-    private String urlPoster;
-
-    @JsonProperty("URLTrailerYoutube")
-    private String urlTrailerYoutube;
-
-    private List<MoviePerson> personList;
+    private String img;
+    private Long price;
+    private MovieDetail detail;
 
     public Movie() {
     }
@@ -29,4 +19,5 @@ public class Movie {
     public Movie(String name) {
         this.name = name;
     }
+
 }

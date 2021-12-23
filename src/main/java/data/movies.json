@@ -1,517 +1,798 @@
 [
   {
     "name": "AMOR SIN BARRERAS",
+    "price": 8,
     "id": "HO00005235",
-    "rating": "AC",
-    "distributor": "Disney",
-    "description":
-    "Adaptación del musical de 1957. West Side Story explora un amor prohibido y la rivalidad entre los Jets y los Sharks, dos bandas adolescentes de diferentes grupos étnicos. ",
-    "duration": "156",
-    "category": "Musical",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/8f93bf986d170bf10489dee2467086aa.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=GiQf6cZT8BQ",
-    "personList": [
-      { "Type": "A", "name": "Ansel Elgort" },
-      { "Type": "A", "name": "Rachel Zegler" },
-      { "Type": "D", "name": "Steven Spielberg" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/8f93bf986d170bf10489dee2467086aa.jpg",
+    "detail": {
+      "description": "Adaptación del musical de 1957. West Side Story explora un amor prohibido y la rivalidad entre los Jets y los Sharks, dos bandas adolescentes de diferentes grupos étnicos. ",
+      "duration": "156",
+      "category": "Musical",
+      "personList": [
+        {
+          "name": "Ansel Elgort",
+          "Type": "A"
+        },
+        {
+          "name": "Rachel Zegler",
+          "Type": "A"
+        },
+        {
+          "name": "Steven Spielberg",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/GiQf6cZT8BQ"
+    }
   },
   {
     "name": "ASALTO A LA CASA DE LA MONEDA",
+    "price": 46,
     "id": "HO00005153",
-    "rating": "+13",
-    "distributor": "BF Paris",
-    "description":
-    "La leyenda de que el Banco de España es inexpugnable y no se puede atracar no asusta a Thom Johnson (Freddie Highmore), el brillante y joven ingeniero reclutado para averiguar cómo acceder a su interior. El objetivo es un pequeño tesoro que va a estar depositado en el banco solo diez días. Diez días para descubrir el secreto de la caja, diez días para urdir un plan, diez días para preparar el asalto, diez días para aprovecharse de un plan de fuga irrepetible, cuando la esperada final del Mundial de Fútbol de Sudáfrica reúna a cientos de miles de aficionados a las puertas del propoi Banco. Diez días para alcanzar la gloria… o para acabar en prisión. ",
-    "duration": "118",
-    "category": "Acción",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/4f14bab47326a9d13afffbf808e144ab.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=Wi7QTbE3dVI&t=23s",
-    "personList": [
-      { "Type": "A", "name": "Astrid Bergès-Frisbey" },
-      { "Type": "A", "name": "Freddie Highmore" },
-      { "Type": "A", "name": "Liam Cunningham" },
-      { "Type": "A", "name": "Sam Riley" },
-      { "Type": "D", "name": "Jaume Balaguero" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/4f14bab47326a9d13afffbf808e144ab.jpg",
+    "detail": {
+      "description": "La leyenda de que el Banco de España es inexpugnable y no se puede atracar no asusta a Thom Johnson (Freddie Highmore), el brillante y joven ingeniero reclutado para averiguar cómo acceder a su interior. El objetivo es un pequeño tesoro que va a estar depositado en el banco solo diez días. Diez días para descubrir el secreto de la caja, diez días para urdir un plan, diez días para preparar el asalto, diez días para aprovecharse de un plan de fuga irrepetible, cuando la esperada final del Mundial de Fútbol de Sudáfrica reúna a cientos de miles de aficionados a las puertas del propoi Banco. Diez días para alcanzar la gloria… o para acabar en prisión. ",
+      "duration": "118",
+      "category": "Acción",
+      "personList": [
+        {
+          "name": "Astrid Bergès-Frisbey",
+          "Type": "A"
+        },
+        {
+          "name": "Freddie Highmore",
+          "Type": "A"
+        },
+        {
+          "name": "Liam Cunningham",
+          "Type": "A"
+        },
+        {
+          "name": "Sam Riley",
+          "Type": "A"
+        },
+        {
+          "name": "Jaume Balaguero",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/Wi7QTbE3dVI"
+    }
   },
   {
     "name": "CLIFFORD",
+    "price": 29,
     "id": "HO00005225",
-    "rating": "ATP",
-    "distributor": "Universal",
-    "description":
-    "Cuando Emily Elizabeth (Darby Camp), una estudiante de secundaria, conoce a un mágico rescatador de animales (John Cleese) que le regala un pequeño cachorrito rojo, nunca se esperó que despertaría al día siguiente con un sabueso gigante de tres metros en su diminuto. ",
-    "duration": "96",
-    "category": "Aventuras",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/cb9ad2b17159860802b461682fb7326c.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=9Zw020ATXNM",
-    "personList": [
-      { "Type": "A", "name": "Jack Whitehall" },
-      { "Type": "A", "name": "Sienna Guillory" },
-      { "Type": "D", "name": "Walt Becker" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/cb9ad2b17159860802b461682fb7326c.jpg",
+    "detail": {
+      "description": "Cuando Emily Elizabeth (Darby Camp), una estudiante de secundaria, conoce a un mágico rescatador de animales (John Cleese) que le regala un pequeño cachorrito rojo, nunca se esperó que despertaría al día siguiente con un sabueso gigante de tres metros en su diminuto. ",
+      "duration": "96",
+      "category": "Aventuras",
+      "personList": [
+        {
+          "name": "Jack Whitehall",
+          "Type": "A"
+        },
+        {
+          "name": "Sienna Guillory",
+          "Type": "A"
+        },
+        {
+          "name": "Walt Becker",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/9Zw020ATXNM"
+    }
   },
   {
     "name": "EL CUENTO DEL TIO",
+    "price": 9,
     "id": "HO00005236",
-    "rating": "+13",
-    "distributor": "Digicine",
-    "description":
-    "Durante la cena de Navidad, Rodo, el tío millonario de la familia, muere accidentalmente. Sus parientes, en franca decadencia económica, especulan con su fastuosa herencia, pero todo cambia cuando a las 12 en punto suena el timbre de la casa y una mujer se presenta como la esposa del muerto. Mario, el jefe de la familia, desesperado ante la posibilidad de perderlo todo, esconde el cuerpo y obliga a los demás a simular el secuestro del tío. De esta manera, la herencia volvería en forma de pago por el rescate. El bolso de dinero aparece en escena y el plan parece infalible, pero entra en crisis cuando todos quieren llevarse su parte. ",
-    "duration": "75",
-    "category": "Comedia Dramatica",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/b0fafff55338ca17bf9345ee66156b48.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=LrBuztCzFn0",
-    "personList": [
-      { "Type": "A", "name": "Alejandra  Flechner" },
-      { "Type": "A", "name": "Luis Ziembrowski" },
-      { "Type": "D", "name": "Ignacio Guggiari" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/b0fafff55338ca17bf9345ee66156b48.jpg",
+    "detail": {
+      "description": "Durante la cena de Navidad, Rodo, el tío millonario de la familia, muere accidentalmente. Sus parientes, en franca decadencia económica, especulan con su fastuosa herencia, pero todo cambia cuando a las 12 en punto suena el timbre de la casa y una mujer se presenta como la esposa del muerto. Mario, el jefe de la familia, desesperado ante la posibilidad de perderlo todo, esconde el cuerpo y obliga a los demás a simular el secuestro del tío. De esta manera, la herencia volvería en forma de pago por el rescate. El bolso de dinero aparece en escena y el plan parece infalible, pero entra en crisis cuando todos quieren llevarse su parte. ",
+      "duration": "75",
+      "category": "Comedia Dramatica",
+      "personList": [
+        {
+          "name": "Alejandra  Flechner",
+          "Type": "A"
+        },
+        {
+          "name": "Luis Ziembrowski",
+          "Type": "A"
+        },
+        {
+          "name": "Ignacio Guggiari",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/LrBuztCzFn0"
+    }
   },
   {
     "name": "EL MISTERIO DE SOHO",
+    "price": 5,
     "id": "HO00005122",
-    "rating": "+16",
-    "distributor": "Universal",
-    "description":
-    "EL MISTERIO DE SOHO es el thriller psicológico de Edgar Wright, que cuenta la historia sobre una joven apasionada por la moda que, misteriosamente, es capaz de trasladarse a la década de los años 60’s, donde se encuentra con su ídolo, una deslumbrante aspirante a cantante. Pero el Londres de la época no es lo que parece, y el tiempo parece desmoronarse con oscuras consecuencias… ",
-    "duration": "117",
-    "category": "Thriller",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/190e1d8085c0817316dc920c03c640fc.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=dAiufOIJNV8&t=11s",
-    "personList": [
-      { "Type": "A", "name": "Anya Taylor -Joy" },
-      { "Type": "A", "name": "Matt Smith" },
-      { "Type": "A", "name": "Thomasin McKenzie" },
-      { "Type": "D", "name": "Edgar Wright" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/190e1d8085c0817316dc920c03c640fc.jpg",
+    "detail": {
+      "description": "EL MISTERIO DE SOHO es el thriller psicológico de Edgar Wright, que cuenta la historia sobre una joven apasionada por la moda que, misteriosamente, es capaz de trasladarse a la década de los años 60’s, donde se encuentra con su ídolo, una deslumbrante aspirante a cantante. Pero el Londres de la época no es lo que parece, y el tiempo parece desmoronarse con oscuras consecuencias… ",
+      "duration": "117",
+      "category": "Thriller",
+      "personList": [
+        {
+          "name": "Anya Taylor -Joy",
+          "Type": "A"
+        },
+        {
+          "name": "Matt Smith",
+          "Type": "A"
+        },
+        {
+          "name": "Thomasin McKenzie",
+          "Type": "A"
+        },
+        {
+          "name": "Edgar Wright",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/dAiufOIJNV8"
+    }
   },
   {
     "name": "EL NIDO",
+    "price": 18,
     "id": "HO00005161",
-    "rating": "+16",
-    "distributor": "Digicine",
-    "description":
-    "​Samuel es un joven parapléjico niño que vive con su madre, Elena en Villa del Lago, una aislada residencia rodeada de bosques. Ellos se encuentran atrapados  en una rutina familiar  y con una estricta prohibición para salir de la casa. Samuel crece aparentemente sereno pero insatisfecho e inquieto. La llegada de una adolescente Denise romperá el balance familiar y finalmente le dará a Samuel la fuerza para oponerse a las restricciones impuestas por su madre y poder abrirse al mundo pero Elena  no dejará a su hijo ir tan fácilmente y está lista para hacer lo que sea necesario para mantenerlo cerca suyo. ¿Por qué Elena fuerza a Samuel a vivir como un prisionero en su propio hogar? ¿Qué misterios esconde?. ",
-    "duration": "108",
-    "category": "Terror",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/21c9fa2d8bda17d85851a043d43d25d7.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=IvdmYb90qzs",
-    "personList": [
-      { "Type": "A", "name": "Francesca Cavallin" },
-      { "Type": "A", "name": "Ginevra Francesconi" },
-      { "Type": "A", "name": "Justin Korovkin" },
-      { "Type": "D", "name": "Roberto De Feo" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/21c9fa2d8bda17d85851a043d43d25d7.jpg",
+    "detail": {
+      "description": "​Samuel es un joven parapléjico niño que vive con su madre, Elena en Villa del Lago, una aislada residencia rodeada de bosques. Ellos se encuentran atrapados  en una rutina familiar  y con una estricta prohibición para salir de la casa. Samuel crece aparentemente sereno pero insatisfecho e inquieto. La llegada de una adolescente Denise romperá el balance familiar y finalmente le dará a Samuel la fuerza para oponerse a las restricciones impuestas por su madre y poder abrirse al mundo pero Elena  no dejará a su hijo ir tan fácilmente y está lista para hacer lo que sea necesario para mantenerlo cerca suyo. ¿Por qué Elena fuerza a Samuel a vivir como un prisionero en su propio hogar? ¿Qué misterios esconde?. ",
+      "duration": "108",
+      "category": "Terror",
+      "personList": [
+        {
+          "name": "Francesca Cavallin",
+          "Type": "A"
+        },
+        {
+          "name": "Ginevra Francesconi",
+          "Type": "A"
+        },
+        {
+          "name": "Justin Korovkin",
+          "Type": "A"
+        },
+        {
+          "name": "Roberto De Feo",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/IvdmYb90qzs"
+    }
   },
   {
     "name": "EL PERFECTO DAVID",
+    "price": 26,
     "id": "HO00005237",
-    "rating": "+16 (con reservas)",
-    "distributor": "CINE TREN",
-    "description":
-    "Un adolescente está obsesionado con su cuerpo. Entrena día y noche. Es inducido por su madre, una artista plástica, que busca que su hijo llegue a la perfección en cuanto a las proporciones físicas. ",
-    "duration": "80",
-    "category": "Drama",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/ea6b0544477fd93e924d8775db761ef1.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/Ci39Yl_OlT0",
-    "personList": [
-      { "Type": "A", "name": "Mauricio Di Yorio" },
-      { "Type": "A", "name": "Umbra Colombo" },
-      { "Type": "D", "name": "Felipe Gomez Aparicio" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/ea6b0544477fd93e924d8775db761ef1.jpg",
+    "detail": {
+      "description": "Un adolescente está obsesionado con su cuerpo. Entrena día y noche. Es inducido por su madre, una artista plástica, que busca que su hijo llegue a la perfección en cuanto a las proporciones físicas. ",
+      "duration": "80",
+      "category": "Drama",
+      "personList": [
+        {
+          "name": "Mauricio Di Yorio",
+          "Type": "A"
+        },
+        {
+          "name": "Umbra Colombo",
+          "Type": "A"
+        },
+        {
+          "name": "Felipe Gomez Aparicio",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//Ci39Yl_OlT0"
+    }
   },
   {
     "name": "ENCANTO",
+    "price": 48,
     "id": "HO00005130",
-    "rating": "ATP",
-    "distributor": "Disney",
-    "description":
-    "ENCANTO de Walt Disney Animation Studios cuenta la historia de los Madrigal, una familia extraordinaria que vive escondida en las montañas de Colombia, en una casa mágica, en un pueblo vibrante, en un lugar maravilloso conocido como un Encanto. La magia de este Encanto ha bendecido a todos los niños y niñas de la familia con un don único, desde súper fuerza hasta el poder de sanar. A todos, excepto a Mirabel. Pero cuando descubre que la magia que rodea al Encanto corre peligro, Mirabel decide que ella, la única Madrigal sin poderes mágicos, podría ser la última esperanza de su excepcional familia. ",
-    "duration": "109",
-    "category": "Animación",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/a597c82cc6913db1d045f53840afabf7.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=4wmnq95hj70&t=5s",
-    "personList": [
-      { "Type": "D", "name": "Byron Howard" },
-      { "Type": "D", "name": "Charise  Castro Smith" },
-      { "Type": "D", "name": "Jared Bush" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/a597c82cc6913db1d045f53840afabf7.jpg",
+    "detail": {
+      "description": "ENCANTO de Walt Disney Animation Studios cuenta la historia de los Madrigal, una familia extraordinaria que vive escondida en las montañas de Colombia, en una casa mágica, en un pueblo vibrante, en un lugar maravilloso conocido como un Encanto. La magia de este Encanto ha bendecido a todos los niños y niñas de la familia con un don único, desde súper fuerza hasta el poder de sanar. A todos, excepto a Mirabel. Pero cuando descubre que la magia que rodea al Encanto corre peligro, Mirabel decide que ella, la única Madrigal sin poderes mágicos, podría ser la última esperanza de su excepcional familia. ",
+      "duration": "109",
+      "category": "Animación",
+      "personList": [
+        {
+          "name": "Byron Howard",
+          "Type": "D"
+        },
+        {
+          "name": "Charise  Castro Smith",
+          "Type": "D"
+        },
+        {
+          "name": "Jared Bush",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/4wmnq95hj70"
+    }
   },
   {
     "name": "ETERNALS",
+    "price": 17,
     "id": "HO00005064",
-    "rating": "+13",
-    "distributor": "Disney",
-    "description":
-    "Comienzo de la saga de los Eternals, una raza inmortal que vivió alguna vez en la Tierra y le dió forma a su historia y civilización. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. ",
-    "duration": "157",
-    "category": "Acción",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/c7f96d523c97922e7774cb573bb16bcf.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=MKWXuj3ZYf0&t=50s",
-    "personList": [
-      { "Type": "A", "name": "Angelina Jolie" },
-      { "Type": "A", "name": "Barry Keoghan" },
-      { "Type": "A", "name": "Kit  Harington" },
-      { "Type": "A", "name": "Richard Madden" },
-      { "Type": "A", "name": "Salma Hayek" },
-      { "Type": "D", "name": "Chloe Zhao" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/c7f96d523c97922e7774cb573bb16bcf.jpg",
+    "detail": {
+      "description": "Comienzo de la saga de los Eternals, una raza inmortal que vivió alguna vez en la Tierra y le dió forma a su historia y civilización. Su intención era crear individuos superpoderosos que hicieran únicamente el bien, pero algo salió mal y aparecieron los Desviantes, destruyendo y creando el caos a su paso. ",
+      "duration": "157",
+      "category": "Acción",
+      "personList": [
+        {
+          "name": "Angelina Jolie",
+          "Type": "A"
+        },
+        {
+          "name": "Barry Keoghan",
+          "Type": "A"
+        },
+        {
+          "name": "Kit  Harington",
+          "Type": "A"
+        },
+        {
+          "name": "Richard Madden",
+          "Type": "A"
+        },
+        {
+          "name": "Salma Hayek",
+          "Type": "A"
+        },
+        {
+          "name": "Chloe Zhao",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/MKWXuj3ZYf0"
+    }
   },
   {
     "name": "EX CASADOS",
+    "price": 40,
     "id": "HO00005219",
-    "rating": "+13",
-    "distributor": "Carlos Harwicz",
-    "description":
-    "Una comedia actual, donde el matrimonio (Aruzzi y Moldavsky) tiene un vínculo en el que la moneda corriente es la pelea verbal hasta límites hilarantes. Las diferentes miradas que tienen SONIA y ROBERTO sobre estereotipos, machismo vs feminismo, y cómo quieren vivir sus vidas los lleva a tomar la decisión de separarse. Luego de un año se reencuentran para dividir sus bienes. Cada uno con una vida nueva. Sin embargo un accidente hará que Sonia tenga que ocuparse de cuidar a Roberto, volviendo a convivir en el departamento en el que vivían y viajar juntos al viñedo de sus sueños que tenían en La Rioja. ",
-    "duration": "95",
-    "category": "Comedia",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/dc953b48fd931e18cc2f6d5237a8cf83.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/GzqYoI8x7Lc",
-    "personList": [
-      { "Type": "A", "name": "Jorgelina Aruzzi" },
-      { "Type": "A", "name": "Roberto Moldavsky" },
-      { "Type": "D", "name": "Sabrina Farji" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/dc953b48fd931e18cc2f6d5237a8cf83.jpg",
+    "detail": {
+      "description": "Una comedia actual, donde el matrimonio (Aruzzi y Moldavsky) tiene un vínculo en el que la moneda corriente es la pelea verbal hasta límites hilarantes. Las diferentes miradas que tienen SONIA y ROBERTO sobre estereotipos, machismo vs feminismo, y cómo quieren vivir sus vidas los lleva a tomar la decisión de separarse. Luego de un año se reencuentran para dividir sus bienes. Cada uno con una vida nueva. Sin embargo un accidente hará que Sonia tenga que ocuparse de cuidar a Roberto, volviendo a convivir en el departamento en el que vivían y viajar juntos al viñedo de sus sueños que tenían en La Rioja. ",
+      "duration": "95",
+      "category": "Comedia",
+      "personList": [
+        {
+          "name": "Jorgelina Aruzzi",
+          "Type": "A"
+        },
+        {
+          "name": "Roberto Moldavsky",
+          "Type": "A"
+        },
+        {
+          "name": "Sabrina Farji",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//GzqYoI8x7Lc"
+    }
   },
   {
     "name": "GHOSTBUSTERS EL LEGADO",
+    "price": 50,
     "id": "HO00005101",
-    "rating": "+13",
-    "distributor": "sony",
-    "description":
-    "Del director Jason Reitman y el productor Ivan Reitman, llega el próximo capítulo del universo original de Ghostbusters. En Ghostbusters: El Legado, cuando una madre soltera y dos niños llegan a un pequeño pueblo, comienzan a descubrir la conexión entre los cazafantasmas originales y el legado secreto que dejó su abuelo. Ghostbusters: El Legado está escrita por Gil Kenan y Jason Reitman. ",
-    "duration": "124",
-    "category": "Aventuras",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/385cdf976087998bf59c848ef48e5cb2.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/GtyAO-VP0tw",
-    "personList": [
-      { "Type": "A", "name": "Annie  Potts" },
-      { "Type": "A", "name": "Carrie Coon" },
-      { "Type": "A", "name": "Ernie Hudson" },
-      { "Type": "A", "name": "Finn Wolfhard" },
-      { "Type": "A", "name": "McKenna Grace" },
-      { "Type": "A", "name": "Paul Rudd" },
-      { "Type": "D", "name": "Jason Reitman" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/385cdf976087998bf59c848ef48e5cb2.jpg",
+    "detail": {
+      "description": "Del director Jason Reitman y el productor Ivan Reitman, llega el próximo capítulo del universo original de Ghostbusters. En Ghostbusters: El Legado, cuando una madre soltera y dos niños llegan a un pequeño pueblo, comienzan a descubrir la conexión entre los cazafantasmas originales y el legado secreto que dejó su abuelo. Ghostbusters: El Legado está escrita por Gil Kenan y Jason Reitman. ",
+      "duration": "124",
+      "category": "Aventuras",
+      "personList": [
+        {
+          "name": "Annie  Potts",
+          "Type": "A"
+        },
+        {
+          "name": "Carrie Coon",
+          "Type": "A"
+        },
+        {
+          "name": "Ernie Hudson",
+          "Type": "A"
+        },
+        {
+          "name": "Finn Wolfhard",
+          "Type": "A"
+        },
+        {
+          "name": "McKenna Grace",
+          "Type": "A"
+        },
+        {
+          "name": "Paul Rudd",
+          "Type": "A"
+        },
+        {
+          "name": "Jason Reitman",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//GtyAO-VP0tw"
+    }
   },
   {
     "name": "GORILLAZ SONG MACHINE LIVE",
+    "price": 3,
     "id": "HO00005126",
-    "rating": "ATP (con leyenda)",
-    "distributor": "Cinemark srl",
-    "description":
-    "Viva la experiencia de ver en la pantalla grande a la banda virtual más grande del planeta: Gorillaz lleva a los cines de todo el mundo su aclamado Song Machine Live. El concierto, en el que los diseños de Jamie Hewlett se lanzan a una apasionante actuación en directo, incluye canciones del proyecto Song Machine, además de algunos temas clásicos del repertorio de la banda, muy queridos por el público. La guitarrista, Noodle; el bajista, Murdoc Niccals; el baterista, Russel, y el líder del grupo, 2D, se unen a Damon Albarn y a toda la banda en directo de Gorillaz, a la que se suman una serie de artistas invitados de lujo, en lo que será su primera actuación en directo desde 2018. Esta presentación especial también incluye un programa previo al espectáculo y grabaciones exclusivas detrás de cámaras. ",
-    "duration": "157",
-    "category": "Recital",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/70aea648d5305d6e1a2e82bda2acffde.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/Ky3mnWGC_rA",
-    "personList": [{ "Type": "D", "name": "Nicolas Jack Davies" }]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/70aea648d5305d6e1a2e82bda2acffde.jpg",
+    "detail": {
+      "description": "Viva la experiencia de ver en la pantalla grande a la banda virtual más grande del planeta: Gorillaz lleva a los cines de todo el mundo su aclamado Song Machine Live. El concierto, en el que los diseños de Jamie Hewlett se lanzan a una apasionante actuación en directo, incluye canciones del proyecto Song Machine, además de algunos temas clásicos del repertorio de la banda, muy queridos por el público. La guitarrista, Noodle; el bajista, Murdoc Niccals; el baterista, Russel, y el líder del grupo, 2D, se unen a Damon Albarn y a toda la banda en directo de Gorillaz, a la que se suman una serie de artistas invitados de lujo, en lo que será su primera actuación en directo desde 2018. Esta presentación especial también incluye un programa previo al espectáculo y grabaciones exclusivas detrás de cámaras. ",
+      "duration": "157",
+      "category": "Recital",
+      "personList": [
+        {
+          "name": "Nicolas Jack Davies",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//Ky3mnWGC_rA"
+    }
   },
   {
     "name": "HARRY POTTER Y LA PIEDRA FILOSOFAL",
+    "price": 30,
     "id": "HO00005089",
-    "rating": "ATP",
-    "distributor": "Warner",
-    "description":
-    "HARRY POTTER Y LA PIEDRA FILOSOFAL 20 AÑOS DE MAGIA. FUNCION CON CONTENIDO ESPECIAL 15 MINUTOS, TRIVIA EN PANTALLA Y COMENTARIOS DEL DIRECTOR. Un niño huérfano se inscribe en una escuela de magia y hechicería, donde aprende la verdad sobre sí mismo, su familia y el terrible mal que acecha al mundo mágico. ",
-    "duration": "168",
-    "category": "Aventuras",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/1bc84ab84cd6aa676f96f9171b4cbac8.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/uwM2oPGQMl4",
-    "personList": [
-      { "Type": "A", "name": "Daniel  Radcliffe" },
-      { "Type": "A", "name": "Emma Watson" },
-      { "Type": "A", "name": "Rupert Grint" },
-      { "Type": "D", "name": "Chris  Columbus" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/1bc84ab84cd6aa676f96f9171b4cbac8.jpg",
+    "detail": {
+      "description": "HARRY POTTER Y LA PIEDRA FILOSOFAL 20 AÑOS DE MAGIA. FUNCION CON CONTENIDO ESPECIAL 15 MINUTOS, TRIVIA EN PANTALLA Y COMENTARIOS DEL DIRECTOR. Un niño huérfano se inscribe en una escuela de magia y hechicería, donde aprende la verdad sobre sí mismo, su familia y el terrible mal que acecha al mundo mágico. ",
+      "duration": "168",
+      "category": "Aventuras",
+      "personList": [
+        {
+          "name": "Daniel  Radcliffe",
+          "Type": "A"
+        },
+        {
+          "name": "Emma Watson",
+          "Type": "A"
+        },
+        {
+          "name": "Rupert Grint",
+          "Type": "A"
+        },
+        {
+          "name": "Chris  Columbus",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//uwM2oPGQMl4"
+    }
   },
   {
     "name": "INMORTAL",
+    "price": 17,
     "id": "HO00005218",
-    "rating": "+13",
-    "distributor": "CINE TREN",
-    "description":
-    "Ana regresa a Bs. As. desde Italia para realizar los trámites de la sucesión de su padre, fallecido en su ausencia. Investigando logra dar con quien fuera el gran amigo, el Dr. Benedetti, un científico que trata de convencerla de que ha descubierto la puerta a una dimensión paralela donde ella podría visitar a su padre muerto. Ana cree estar en medio de una gran estafa, mientras se acerca al umbral de una revelación que cambiará su vida por completo. ",
-    "duration": "97",
-    "category": "Ciencia Ficción",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/7078009de50872bc2e692e757b0e7f79.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=czZGLSXDbDw",
-    "personList": [
-      { "Type": "A", "name": "Belen Blanco" },
-      { "Type": "A", "name": "Daniel Fanego" },
-      { "Type": "A", "name": "Diego Velazquez" },
-      { "Type": "D", "name": "Fernando  Spiner" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/7078009de50872bc2e692e757b0e7f79.jpg",
+    "detail": {
+      "description": "Ana regresa a Bs. As. desde Italia para realizar los trámites de la sucesión de su padre, fallecido en su ausencia. Investigando logra dar con quien fuera el gran amigo, el Dr. Benedetti, un científico que trata de convencerla de que ha descubierto la puerta a una dimensión paralela donde ella podría visitar a su padre muerto. Ana cree estar en medio de una gran estafa, mientras se acerca al umbral de una revelación que cambiará su vida por completo. ",
+      "duration": "97",
+      "category": "Ciencia Ficción",
+      "personList": [
+        {
+          "name": "Belen Blanco",
+          "Type": "A"
+        },
+        {
+          "name": "Daniel Fanego",
+          "Type": "A"
+        },
+        {
+          "name": "Diego Velazquez",
+          "Type": "A"
+        },
+        {
+          "name": "Fernando  Spiner",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/czZGLSXDbDw"
+    }
   },
   {
     "name": "LA CASA GUCCI",
+    "price": 25,
     "id": "HO00005156",
-    "rating": "+13",
-    "distributor": "Universal",
-    "description":
-    "La Casa Gucci está inspirada en la impactante historia real del imperio familiar detrás de la casa de moda italiana Gucci. A lo largo de tres décadas de amor, traición, decadencia, venganza y en última instancia un asesinato, veremos lo que significa un nombre, lo que vale y hasta dónde llegará una familia por el control. ",
-    "duration": "158",
-    "category": "Biografia",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/d02ecf1f10b30c87ec48ebfb55eec56d.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/Dy4JNr9gs7I",
-    "personList": [
-      { "Type": "A", "name": "Adam Driver" },
-      { "Type": "A", "name": "Al  Pacino" },
-      { "Type": "A", "name": "Jared Leto" },
-      { "Type": "A", "name": "Jeremy  Irons" },
-      { "Type": "A", "name": "Lady Gaga" },
-      { "Type": "D", "name": "Ridley Scott" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/d02ecf1f10b30c87ec48ebfb55eec56d.jpg",
+    "detail": {
+      "description": "La Casa Gucci está inspirada en la impactante historia real del imperio familiar detrás de la casa de moda italiana Gucci. A lo largo de tres décadas de amor, traición, decadencia, venganza y en última instancia un asesinato, veremos lo que significa un nombre, lo que vale y hasta dónde llegará una familia por el control. ",
+      "duration": "158",
+      "category": "Biografia",
+      "personList": [
+        {
+          "name": "Adam Driver",
+          "Type": "A"
+        },
+        {
+          "name": "Al  Pacino",
+          "Type": "A"
+        },
+        {
+          "name": "Jared Leto",
+          "Type": "A"
+        },
+        {
+          "name": "Jeremy  Irons",
+          "Type": "A"
+        },
+        {
+          "name": "Lady Gaga",
+          "Type": "A"
+        },
+        {
+          "name": "Ridley Scott",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//Dy4JNr9gs7I"
+    }
   },
   {
     "name": "LA CRONICA FRANCESA",
+    "price": 45,
     "id": "HO00004138",
-    "rating": "+13",
-    "distributor": "Disney",
-    "description":
-    "El retrato de un periodista estadounidense que lucha por escribir con integridad desde París a mediados del siglo XX.   ",
-    "duration": "108",
-    "category": "Comedia",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/5d25388968e119b91223b8ca70d4a528.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/YFawVGHq-aE",
-    "personList": [
-      { "Type": "A", "name": "Adrien Brody" },
-      { "Type": "A", "name": "Benicio Del Toro" },
-      { "Type": "A", "name": "Frances Mc Dormand" },
-      { "Type": "A", "name": "Saoirse Ronan" },
-      { "Type": "A", "name": "Timothee Chalamet" },
-      { "Type": "D", "name": "Wes Anderson" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/5d25388968e119b91223b8ca70d4a528.jpg",
+    "detail": {
+      "description": "El retrato de un periodista estadounidense que lucha por escribir con integridad desde París a mediados del siglo XX.   ",
+      "duration": "108",
+      "category": "Comedia",
+      "personList": [
+        {
+          "name": "Adrien Brody",
+          "Type": "A"
+        },
+        {
+          "name": "Benicio Del Toro",
+          "Type": "A"
+        },
+        {
+          "name": "Frances Mc Dormand",
+          "Type": "A"
+        },
+        {
+          "name": "Saoirse Ronan",
+          "Type": "A"
+        },
+        {
+          "name": "Timothee Chalamet",
+          "Type": "A"
+        },
+        {
+          "name": "Wes Anderson",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//YFawVGHq-aE"
+    }
   },
   {
     "name": "LA FAMILIA MONSTER 2",
+    "price": 11,
     "id": "HO00005116",
-    "rating": "ATP (con leyenda)",
-    "distributor": "BF Paris",
-    "description":
-    "Para rescatar a Baba Yaga y Renfield de las garras de la cazadora de monstruos Mila Starr, la familia Wishbone se transforma una vez más en, un vampiro, Frankenstein, la momia y el hombre lobo. Con la ayuda de sus tres murciélagos mascota, nuestra Familia Monstruo vuelve a recorrer el mundo para salvar a sus amigos, hacer nuevos mountruo-conocidos y finalmente darse cuenta que “Nadie es perfecto”… incluso aquellos con defectos pueden encontrar la felicidad. ",
-    "duration": "103",
-    "category": "Animación",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/7911ad12df07729098cf88c27f55c35c.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/8tpdGktztuM",
-    "personList": [{ "Type": "D", "name": "Holer Tappe" }]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/7911ad12df07729098cf88c27f55c35c.jpg",
+    "detail": {
+      "description": "Para rescatar a Baba Yaga y Renfield de las garras de la cazadora de monstruos Mila Starr, la familia Wishbone se transforma una vez más en, un vampiro, Frankenstein, la momia y el hombre lobo. Con la ayuda de sus tres murciélagos mascota, nuestra Familia Monstruo vuelve a recorrer el mundo para salvar a sus amigos, hacer nuevos mountruo-conocidos y finalmente darse cuenta que “Nadie es perfecto”… incluso aquellos con defectos pueden encontrar la felicidad. ",
+      "duration": "103",
+      "category": "Animación",
+      "personList": [
+        {
+          "name": "Holer Tappe",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//8tpdGktztuM"
+    }
   },
   {
     "name": "MATRIX 1999",
+    "price": 48,
     "id": "HO00005242",
-    "rating": "+13",
-    "distributor": "Warner",
-    "description":
-    "Thomas Anderson es un brillante programador de una respetable compañía de software. Pero fuera del trabajo es Neo, un hacker que un día recibe una misteriosa visita...",
-    "duration": "136",
-    "category": "Acción",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/47cea2aa07d5faca581e684e79d7cfdb.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=D4eJx-0g3Do",
-    "personList": [
-      { "Type": "A", "name": "Carrie-Anne Moss" },
-      { "Type": "A", "name": "Keanu Reeves" },
-      { "Type": "A", "name": "Laurence  Fishburne" },
-      { "Type": "D", "name": "Lana Wachowsky" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/47cea2aa07d5faca581e684e79d7cfdb.jpg",
+    "detail": {
+      "description": "Thomas Anderson es un brillante programador de una respetable compañía de software. Pero fuera del trabajo es Neo, un hacker que un día recibe una misteriosa visita...",
+      "duration": "136",
+      "category": "Acción",
+      "personList": [
+        {
+          "name": "Carrie-Anne Moss",
+          "Type": "A"
+        },
+        {
+          "name": "Keanu Reeves",
+          "Type": "A"
+        },
+        {
+          "name": "Laurence  Fishburne",
+          "Type": "A"
+        },
+        {
+          "name": "Lana Wachowsky",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/D4eJx-0g3Do"
+    }
   },
   {
     "name": "MILAGRO DE OTOÑO",
+    "price": 11,
     "id": "HO00005220",
-    "rating": "+13",
-    "distributor": "Eiriz Gabriel Hernan (Batata Films)",
-    "description":
-    "Esta es la historia de Faxman (Luis Machín), un “ilusionista” e hipnotizador de marionetas y de Candelaria, un ángel que llegó y se volvió temprano.  Es el momento en la vida de un hombre que siente la necesidad de recuperar su tiempo de amor perdido y terminará negociando con el relojero del barrio, “un verdadero guardián del tiempo”, el regreso, por un ratito, a su pasado.",
-    "duration": "97",
-    "category": "Drama",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/7b2ae4bfae66481828eff0a6e9c6efe7.jpg",
-    "URLTrailerYoutube": " https://www.youtube.com/watch?v=/W5ubJIujZMs",
-    "personList": [
-      { "Type": "A", "name": "Luis Machin" },
-      { "Type": "A", "name": "Mario  Alarcon" },
-      { "Type": "A", "name": "Sol Zaragozi" },
-      { "Type": "D", "name": "Nestor Zapata" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/7b2ae4bfae66481828eff0a6e9c6efe7.jpg",
+    "detail": {
+      "description": "Esta es la historia de Faxman (Luis Machín), un “ilusionista” e hipnotizador de marionetas y de Candelaria, un ángel que llegó y se volvió temprano.  Es el momento en la vida de un hombre que siente la necesidad de recuperar su tiempo de amor perdido y terminará negociando con el relojero del barrio, “un verdadero guardián del tiempo”, el regreso, por un ratito, a su pasado.",
+      "duration": "97",
+      "category": "Drama",
+      "personList": [
+        {
+          "name": "Luis Machin",
+          "Type": "A"
+        },
+        {
+          "name": "Mario  Alarcon",
+          "Type": "A"
+        },
+        {
+          "name": "Sol Zaragozi",
+          "Type": "A"
+        },
+        {
+          "name": "Nestor Zapata",
+          "Type": "D"
+        }
+      ],
+      "trailer": " https://www.youtube.com/embed//W5ubJIujZMs"
+    }
   },
   {
     "name": "MONSTA X",
+    "price": 27,
     "id": "HO00005127",
-    "rating": "ATP",
-    "distributor": "Cinemark srl",
-    "description":
-    "Famosa por sus poderosas, icónicas y estupendas presentaciones, la banda de K-pop y pop MONSTA X es adorada por sus leales e innumerables fanáticos alrededor del mundo. Como obsequio por su fanatismo, este nuevo film ofrece una mirada íntima a su riguroso viaje durante los últimos seis años, incluyendo entrevistas exclusivas cara a cara con cada uno de sus miembros, historias personales de su paso por los Estados Unidos, y un especial videoclip en concierto, en exclusiva para sus MONBEBES. Este imperdible evento cinematográfico además incluye vibrantes presentaciones de sus máximos hits, junto con un adelanto exclusivo de su próximo álbum. Desafía, evoluciona, sueña. Celebra los magníficos logros y el deslumbrante futuro de los MONSTA X. ",
-    "duration": "90",
-    "category": "Documental",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/c438aded2954ef2e98f9aea8b4b6f15d.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=Sg0XPGPGqo0",
-    "personList": [
-      { "Type": "D", "name": "Oh Yoon-Dong" },
-      { "Type": "D", "name": "Sung Sin-Hyo" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/c438aded2954ef2e98f9aea8b4b6f15d.jpg",
+    "detail": {
+      "description": "Famosa por sus poderosas, icónicas y estupendas presentaciones, la banda de K-pop y pop MONSTA X es adorada por sus leales e innumerables fanáticos alrededor del mundo. Como obsequio por su fanatismo, este nuevo film ofrece una mirada íntima a su riguroso viaje durante los últimos seis años, incluyendo entrevistas exclusivas cara a cara con cada uno de sus miembros, historias personales de su paso por los Estados Unidos, y un especial videoclip en concierto, en exclusiva para sus MONBEBES. Este imperdible evento cinematográfico además incluye vibrantes presentaciones de sus máximos hits, junto con un adelanto exclusivo de su próximo álbum. Desafía, evoluciona, sueña. Celebra los magníficos logros y el deslumbrante futuro de los MONSTA X. ",
+      "duration": "90",
+      "category": "Documental",
+      "personList": [
+        {
+          "name": "Oh Yoon-Dong",
+          "Type": "D"
+        },
+        {
+          "name": "Sung Sin-Hyo",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/Sg0XPGPGqo0"
+    }
   },
   {
     "name": "RESIDENT EVIL",
+    "price": 43,
     "id": "HO00005200",
-    "rating": "+16",
-    "distributor": "sony",
-    "description":
-    "RESIDENT EVIL: BIENVENIDOS A RACCOON CITY. Volviendo a los orígenes de la enormemente popular franquicia Resident Evil, el fan y cineasta Johannes Roberts da vida a los juegos para una nueva generación de fanáticos. En esta nueva entrega, Raccoon City, la que alguna vez fue el hogar en auge de la gigantesca farmacéutica, Corporación Umbrella, se ha convertido en un pueblo agonizante en el Medio Oeste de los Estados Unidos. El éxodo de la compañía dejó a la ciudad desolada. con una gran fuerza maligna gestándose bajo la superficie. Cuando se desata esta maldad, un grupo de sobrevivientes debe trabajar unido para descubrir la verdad detrás de Umbrella y sobrevivir la noche. ",
-    "duration": "107",
-    "category": "Acción",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/911be98b353bbded63bc14a80187dee5.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=4q6UGCyHZCI&t=59s",
-    "personList": [
-      { "Type": "A", "name": "Hannah John-Kamen" },
-      { "Type": "A", "name": "Kaya Scodelario" },
-      { "Type": "A", "name": "Robbie Amell" },
-      { "Type": "D", "name": "Johannes Roberts" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/911be98b353bbded63bc14a80187dee5.jpg",
+    "detail": {
+      "description": "RESIDENT EVIL: BIENVENIDOS A RACCOON CITY. Volviendo a los orígenes de la enormemente popular franquicia Resident Evil, el fan y cineasta Johannes Roberts da vida a los juegos para una nueva generación de fanáticos. En esta nueva entrega, Raccoon City, la que alguna vez fue el hogar en auge de la gigantesca farmacéutica, Corporación Umbrella, se ha convertido en un pueblo agonizante en el Medio Oeste de los Estados Unidos. El éxodo de la compañía dejó a la ciudad desolada. con una gran fuerza maligna gestándose bajo la superficie. Cuando se desata esta maldad, un grupo de sobrevivientes debe trabajar unido para descubrir la verdad detrás de Umbrella y sobrevivir la noche. ",
+      "duration": "107",
+      "category": "Acción",
+      "personList": [
+        {
+          "name": "Hannah John-Kamen",
+          "Type": "A"
+        },
+        {
+          "name": "Kaya Scodelario",
+          "Type": "A"
+        },
+        {
+          "name": "Robbie Amell",
+          "Type": "A"
+        },
+        {
+          "name": "Johannes Roberts",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/4q6UGCyHZCI"
+    }
   },
   {
     "name": "REY RICHARD",
+    "price": 12,
     "id": "HO00005212",
-    "rating": "+13",
-    "distributor": "Warner",
-    "description":
-    "Basado en la historia real que inspirará al mundo, sigue el viaje de Richard Williams, un padre imperturbable que contribuyó a la crianza de dos de los atletas más extraordinariamente dotadas de todos los tiempos, quienes terminarán cambiando el deporte del tenis para siempre. Impulsado por una visión clara de su futuro y utilizando métodos poco convencionales, Richard tiene un plan que llevará a Venus y Serena Williams de las calles de Compton, California al escenario mundial como iconos legendarios. La película profundamente conmovedora muestra el poder de la familia, la perseverancia y la fe inquebrantable como un medio para lograr lo imposible e impactar al mundo. ",
-    "duration": "144",
-    "category": "Biografia",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/9db3591a90acadc1ea612ebf3ae48a61.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/oEpwtHkw34U",
-    "personList": [
-      { "Type": "A", "name": "Demi Singleton" },
-      { "Type": "A", "name": "Saniyya Sidney" },
-      { "Type": "A", "name": "Will Smith" },
-      { "Type": "D", "name": "Reinaldo Marcus Green" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/9db3591a90acadc1ea612ebf3ae48a61.jpg",
+    "detail": {
+      "description": "Basado en la historia real que inspirará al mundo, sigue el viaje de Richard Williams, un padre imperturbable que contribuyó a la crianza de dos de los atletas más extraordinariamente dotadas de todos los tiempos, quienes terminarán cambiando el deporte del tenis para siempre. Impulsado por una visión clara de su futuro y utilizando métodos poco convencionales, Richard tiene un plan que llevará a Venus y Serena Williams de las calles de Compton, California al escenario mundial como iconos legendarios. La película profundamente conmovedora muestra el poder de la familia, la perseverancia y la fe inquebrantable como un medio para lograr lo imposible e impactar al mundo. ",
+      "duration": "144",
+      "category": "Biografia",
+      "personList": [
+        {
+          "name": "Demi Singleton",
+          "Type": "A"
+        },
+        {
+          "name": "Saniyya Sidney",
+          "Type": "A"
+        },
+        {
+          "name": "Will Smith",
+          "Type": "A"
+        },
+        {
+          "name": "Reinaldo Marcus Green",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//oEpwtHkw34U"
+    }
   },
   {
     "name": "RIESGO BAJO CERO",
+    "price": 35,
     "id": "HO00005125",
-    "rating": "+13",
-    "distributor": "BF Paris",
-    "description":
-    "Una remota mina de diamantes ha colapsado dejando atrapados a un grupo de mineros en una región lejana y helada de Canadá. Como parte de un equipo contratado para rescatarlos, el experimentado conductor de una quitahielos emprende un rescate imposible, teniendo que luchar contra una carretera helada, contra las aguas que están descongelándose y contra una amenaza que no ve venir. ",
-    "duration": "109",
-    "category": "Acción",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/379e5c3f6bc5e503fcaf70ebf3db213f.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/cc_ismJiV-0",
-    "personList": [
-      { "Type": "A", "name": "Laurence  Fishburne" },
-      { "Type": "A", "name": "Liam Neeson" },
-      { "Type": "A", "name": "Marcus Thomas" },
-      { "Type": "D", "name": "Jonathan Hensleigh" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/379e5c3f6bc5e503fcaf70ebf3db213f.jpg",
+    "detail": {
+      "description": "Una remota mina de diamantes ha colapsado dejando atrapados a un grupo de mineros en una región lejana y helada de Canadá. Como parte de un equipo contratado para rescatarlos, el experimentado conductor de una quitahielos emprende un rescate imposible, teniendo que luchar contra una carretera helada, contra las aguas que están descongelándose y contra una amenaza que no ve venir. ",
+      "duration": "109",
+      "category": "Acción",
+      "personList": [
+        {
+          "name": "Laurence  Fishburne",
+          "Type": "A"
+        },
+        {
+          "name": "Liam Neeson",
+          "Type": "A"
+        },
+        {
+          "name": "Marcus Thomas",
+          "Type": "A"
+        },
+        {
+          "name": "Jonathan Hensleigh",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//cc_ismJiV-0"
+    }
   },
   {
     "name": "RON DA ERROR",
+    "price": 12,
     "id": "HO00005039",
-    "rating": "ATP (con leyenda)",
-    "distributor": "Disney",
-    "description":
-    "Ron da error, de 20th Century Studios y Locksmith Animation cuenta la historia de Barney, un estudiante de secundaria poco popular y de Ron, su nuevo dispositivo andante y parlante, conectado de forma digital, que se supone que debe ser su Mejor amigo listo para funcionar. Los graciosísimos errores de Ron, con el telón de fondo de la era de las redes sociales, les embarcarán en un viaje lleno de aventuras en el que el chico y el robot experimentarán lo compleja y maravillosa que puede llegar a ser una verdadera amistad.",
-    "duration": "107",
-    "category": "Animación",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/771e80574535828705c15f4c392c0414.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=-Lo_uRC5P6s",
-    "personList": [
-      { "Type": "D", "name": "Jean Philippe Vine" },
-      { "Type": "D", "name": "Sarah Smith" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/771e80574535828705c15f4c392c0414.jpg",
+    "detail": {
+      "description": "Ron da error, de 20th Century Studios y Locksmith Animation cuenta la historia de Barney, un estudiante de secundaria poco popular y de Ron, su nuevo dispositivo andante y parlante, conectado de forma digital, que se supone que debe ser su Mejor amigo listo para funcionar. Los graciosísimos errores de Ron, con el telón de fondo de la era de las redes sociales, les embarcarán en un viaje lleno de aventuras en el que el chico y el robot experimentarán lo compleja y maravillosa que puede llegar a ser una verdadera amistad.",
+      "duration": "107",
+      "category": "Animación",
+      "personList": [
+        {
+          "name": "Jean Philippe Vine",
+          "Type": "D"
+        },
+        {
+          "name": "Sarah Smith",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/-Lo_uRC5P6s"
+    }
   },
   {
     "name": "SPIDER MAN SIN CAMINO A CASA",
+    "price": 36,
     "id": "HO00005179",
-    "rating": "AC",
-    "distributor": "sony",
-    "description":
-    "Debido a restricciones impuestas por la Distribuidora del film “Spider Man: sin camino a casa”, comunicamos que esta película no se encuentra incluida ni participa de ninguna de las promociones y/o beneficios vigentes para las funciones programadas entre el 15 y el 19 de diciembre. Por la razón antes expuesta, tampoco será de aplicación para la adquisición de las entradas correspondientes a esta película ninguno de los precios de venta de entradas preferenciales correspondientes a cada complejo publicados en nuestras carteleras.      Por primera vez en la historia cinematográfica de Spider- Man, nuestro amistoso héroe y vecino es desenmascarado, y ya no puede separar su vida normal de los altos riesgos de ser un súper héroe. Cuando pide ayuda al Doctor Strange, estos riesgos se vuelven más peligrosos, forzándolo a descubrir lo que realmente significa ser Spider-Man. ",
-    "duration": "150",
-    "category": "Acción",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/fa06752420f61cc2845a65479cdc2745.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/r6t0czGbuGI",
-    "personList": [
-      { "Type": "A", "name": "* Zendaya" },
-      { "Type": "A", "name": "Benedict Cumberbatch" },
-      { "Type": "A", "name": "Tom Holland" },
-      { "Type": "D", "name": "Jon Watts" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/fa06752420f61cc2845a65479cdc2745.jpg",
+    "detail": {
+      "description": "Debido a restricciones impuestas por la Distribuidora del film “Spider Man: sin camino a casa”, comunicamos que esta película no se encuentra incluida ni participa de ninguna de las promociones y/o beneficios vigentes para las funciones programadas entre el 15 y el 19 de diciembre. Por la razón antes expuesta, tampoco será de aplicación para la adquisición de las entradas correspondientes a esta película ninguno de los precios de venta de entradas preferenciales correspondientes a cada complejo publicados en nuestras carteleras.      Por primera vez en la historia cinematográfica de Spider- Man, nuestro amistoso héroe y vecino es desenmascarado, y ya no puede separar su vida normal de los altos riesgos de ser un súper héroe. Cuando pide ayuda al Doctor Strange, estos riesgos se vuelven más peligrosos, forzándolo a descubrir lo que realmente significa ser Spider-Man. ",
+      "duration": "150",
+      "category": "Acción",
+      "personList": [
+        {
+          "name": "* Zendaya",
+          "Type": "A"
+        },
+        {
+          "name": "Benedict Cumberbatch",
+          "Type": "A"
+        },
+        {
+          "name": "Tom Holland",
+          "Type": "A"
+        },
+        {
+          "name": "Jon Watts",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//r6t0czGbuGI"
+    }
   },
   {
     "name": "VENOM CARNAGE LIBERADO",
+    "price": 45,
     "id": "HO00004921",
-    "rating": "+13 (con reservas)",
-    "distributor": "sony",
-    "description":
-    "El actor Tom Hardy, nominado a los Premios de la Academia, vuelve a la pantalla grande como el protector letal Venom, uno de los personajes más grandes y complejos de Marvel. Dirigida por Andy Serkis, la película también está protagonizada por Michelle Williams, Naomie Harris y presenta a Woody Harrelson, en el papel del villano Cletus Kasady/Carnage. ",
-    "duration": "98",
-    "category": "Acción",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/7710d7c839d34493a070be95bda37a85.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/F4Ygcigj0Gk",
-    "personList": [
-      { "Type": "A", "name": "Tom Hardy" },
-      { "Type": "A", "name": "Woody Harrelson" },
-      { "Type": "D", "name": "Andy Serkis" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/7710d7c839d34493a070be95bda37a85.jpg",
+    "detail": {
+      "description": "El actor Tom Hardy, nominado a los Premios de la Academia, vuelve a la pantalla grande como el protector letal Venom, uno de los personajes más grandes y complejos de Marvel. Dirigida por Andy Serkis, la película también está protagonizada por Michelle Williams, Naomie Harris y presenta a Woody Harrelson, en el papel del villano Cletus Kasady/Carnage. ",
+      "duration": "98",
+      "category": "Acción",
+      "personList": [
+        {
+          "name": "Tom Hardy",
+          "Type": "A"
+        },
+        {
+          "name": "Woody Harrelson",
+          "Type": "A"
+        },
+        {
+          "name": "Andy Serkis",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//F4Ygcigj0Gk"
+    }
   },
   {
     "name": "VIVO",
+    "price": 33,
     "id": "HO00005121",
-    "rating": "+13",
-    "distributor": "Cinemark srl",
-    "description":
-    "La vida parece que nos come y no nos deja margen para  decidir, pero ¿qué pasaría si esa persona, ese golpe del destino o ese parón tuvieran un sentido que no esperabas y cambiaran tu  mirada y el enfoque de tu vida? Estas son cuatro historias, reales, que se encontraron cara a cara con alguien que muchos no logran ver, aunque Jaime, Carlos, Andrea, Antonio y Sonsoles aseguran que está VIVO y les ha devuelto la vida. Si escuchas Le podrás oír y, si miras, Le podrás ver, porque,  aunque cueste creerlo: Ahí hay vida. ",
-    "duration": "80",
-    "category": "Documental",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/5022f89fd23497721bcd12f8765bcece.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=/8FK1bAnqM9Y",
-    "personList": [{ "Type": "D", "name": "Jorge Pareja" }]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/5022f89fd23497721bcd12f8765bcece.jpg",
+    "detail": {
+      "description": "La vida parece que nos come y no nos deja margen para  decidir, pero ¿qué pasaría si esa persona, ese golpe del destino o ese parón tuvieran un sentido que no esperabas y cambiaran tu  mirada y el enfoque de tu vida? Estas son cuatro historias, reales, que se encontraron cara a cara con alguien que muchos no logran ver, aunque Jaime, Carlos, Andrea, Antonio y Sonsoles aseguran que está VIVO y les ha devuelto la vida. Si escuchas Le podrás oír y, si miras, Le podrás ver, porque,  aunque cueste creerlo: Ahí hay vida. ",
+      "duration": "80",
+      "category": "Documental",
+      "personList": [
+        {
+          "name": "Jorge Pareja",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed//8FK1bAnqM9Y"
+    }
   },
   {
     "name": "YO NENA YO PRINCESA",
+    "price": 15,
     "id": "HO00005086",
-    "rating": "ATP (con leyenda)",
-    "distributor": "Eiriz Gabriel Hernan (Batata Films)",
-    "description":
-    "Una madre comprende que ni médicos ni psicólogos encuentran la causa de los padecimientos de uno de sus hijos mellizos. Desesperada recorre y busca soluciones hasta que descubre que todo se debe a que Manuel no se identifica con el género que le asignaron al nacer. Emprende así una lucha interminable para que sea respetada su identidad de género, ya que es una niña trans. Se trata de una historia real de amor y de coraje inagotables. Pero también un ensayo y una reflexión profunda y extraordinaria sobre los prejuicios y los saberes instituidos, tan próximos muchas veces a la ignorancia y la infamia con los que nos enfrentamos día a día. ",
-    "duration": "120",
-    "category": "Drama",
-    "URLPoster":
-    "https://static.cinemarkhoyts.com.ar/Images/Posters/09fd23abc8ce4e10a5553affc455836d.jpg",
-    "URLTrailerYoutube": "https://www.youtube.com/watch?v=1n71K1Vq5Io",
-    "personList": [
-      { "Type": "A", "name": "Eleonora Wexler" },
-      { "Type": "A", "name": "Juan Palomino" },
-      { "Type": "D", "name": "Federico Palazzo" }
-    ]
+    "img": "https://static.cinemarkhoyts.com.ar/Images/Posters/09fd23abc8ce4e10a5553affc455836d.jpg",
+    "detail": {
+      "description": "Una madre comprende que ni médicos ni psicólogos encuentran la causa de los padecimientos de uno de sus hijos mellizos. Desesperada recorre y busca soluciones hasta que descubre que todo se debe a que Manuel no se identifica con el género que le asignaron al nacer. Emprende así una lucha interminable para que sea respetada su identidad de género, ya que es una niña trans. Se trata de una historia real de amor y de coraje inagotables. Pero también un ensayo y una reflexión profunda y extraordinaria sobre los prejuicios y los saberes instituidos, tan próximos muchas veces a la ignorancia y la infamia con los que nos enfrentamos día a día. ",
+      "duration": "120",
+      "category": "Drama",
+      "personList": [
+        {
+          "name": "Eleonora Wexler",
+          "Type": "A"
+        },
+        {
+          "name": "Juan Palomino",
+          "Type": "A"
+        },
+        {
+          "name": "Federico Palazzo",
+          "Type": "D"
+        }
+      ],
+      "trailer": "https://www.youtube.com/embed/1n71K1Vq5Io"
+    }
   }
 ]
